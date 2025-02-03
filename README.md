@@ -1,7 +1,7 @@
 👋 **Hi, I'm Shaker!**
 
 🚀 **Summary**  
-I'm an **Aspiring Software Developer & DevOps Engineer** with experience in AWS, software development, and data analysis. My background in science and technology, combined with my intensive training at Makers Academy, has equipped me with strong problem-solving skills and adaptability. I thrive in cross-functional teams and am eager to continue expanding my technical knowledge.
+I'm an **Software Developer & DevOps Engineer** with experience in AWS, software development, and data analysis. My background in science and technology, combined with my intensive training at Makers Academy, has equipped me with strong problem-solving skills and adaptability. I thrive in cross-functional teams and am eager to continue expanding my technical knowledge.
 
 🛠️ **Tech Stack**  
 - Programming Languages: Python, JavaScript, Ruby
